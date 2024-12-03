@@ -1,0 +1,10 @@
+2024-12-02 23:05:10.444 -06:00 [INF] 1.- Launch Browser
+2024-12-02 23:05:12.426 -06:00 [INF] 2. Navigate to url https://automationexercise.com/.
+2024-12-02 23:05:17.093 -06:00 [INF] 3. Verify that home page is visible successfully.
+2024-12-02 23:05:17.130 -06:00 [INF] 4. Click on 'Signup / Login' button.
+2024-12-02 23:05:21.977 -06:00 [INF] 5. Verify 'Login to your account' is visible.
+2024-12-02 23:05:22.009 -06:00 [INF] 6. Enter correct email address and password.
+2024-12-02 23:05:22.235 -06:00 [INF] 7. Click 'login' button.
+2024-12-02 23:05:29.025 -06:00 [INF] 8. Verify that 'Logged in as username' is visible
+2024-12-02 23:05:29.131 -06:00 [INF] 9. Click 'Logout' button.
+2024-12-02 23:05:30.947 -06:00 [INF] 10. Verify that user is navigated to login page.
